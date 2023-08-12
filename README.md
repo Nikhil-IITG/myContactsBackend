@@ -19,6 +19,7 @@ Go to package.json and in the script, add-
 
 then, finally npm run dev
 
+One can use any client for testing this backend. I used Thunder Client which is there on VS Code
 
 
 
